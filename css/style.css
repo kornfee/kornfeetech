@@ -89,7 +89,7 @@ a.navbar-brand {
     line-height: 0.8em;
     text-transform: uppercase;
     color: rgba(243, 243, 239, 0.979);
-    font-family: 'caveat',cursive;
+    font-family:'Spartan', sans-serif;
 }
 
 #logo a {
@@ -1159,7 +1159,7 @@ section.hand-crafted p {
 
 .overlay-innerpage {
     min-height: 11em;
-    background: rgba(0, 0, 0, 0.44);
+    background: rgba(12, 12, 12, 0.973);
 }
 
 .inner-w3pvt-page-info {
